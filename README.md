@@ -1,7 +1,7 @@
 # ITI-Bash-Scprit-project
 A simple Bash-based user management system that simulates basic system administration tasks through a menu-driven interface.
 
-📌 Overview
+# 📌 Overview
 
 This project provides a command-line interface (CLI) for managing users and groups. It allows administrators to perform essential operations 
 
@@ -32,13 +32,13 @@ This project provides a command-line interface (CLI) for managing users and grou
 ℹ️ About Section
 
 
-🖥️ Menu Preview
+# 🖥️ Menu Preview
 
 The system provides a simple interactive menu like:
 <img width="917" height="687" alt="Screenshot 2026-04-17 211402" src="https://github.com/user-attachments/assets/62d2acb6-dbec-4d59-b7e3-5dd21da261d5" />
 
 
-⚙️ Requirements
+# ⚙️ Requirements
 Linux system (RHEL / CentOS / Rocky / Ubuntu)
 Root privileges
 whiptail installed
