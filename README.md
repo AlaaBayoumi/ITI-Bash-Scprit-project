@@ -40,9 +40,14 @@ The system provides a simple interactive menu like:
 
 # ⚙️ Requirements
 Linux system (RHEL / CentOS / Rocky / Ubuntu)
+
 Root privileges
+
 whiptail installed
+
 Install whiptail if not installed:
 
+
 sudo yum install newt -y     # RHEL/CentOS
+
 sudo apt install whiptail -y # Ubuntu
