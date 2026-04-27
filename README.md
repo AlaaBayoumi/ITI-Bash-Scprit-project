@@ -3,21 +3,34 @@ A simple Bash-based user management system that simulates basic system administr
 
 📌 Overview
 
-This project provides a command-line interface (CLI) for managing users and groups. It allows administrators to perform essential operations مثل إضافة المستخدمين، تعديلهم، حذفهم، وإدارة المجموعات بسهولة.
+This project provides a command-line interface (CLI) for managing users and groups. It allows administrators to perform essential operations 
 
 ⚙️ Features
+
 ➕ Add User
+
 ✏️ Modify User
+
 ❌ Delete User
+
 📋 List Users
+
 👥 Add Group
+
 ✏️ Modify Group
+
 ❌ Delete Group
+
 📋 List Groups
+
 🔒 Disable User (Lock account)
+
 🔓 Enable User (Unlock account)
+
 🔑 Change User Password
+
 ℹ️ About Section
+
 
 🖥️ Menu Preview
 
